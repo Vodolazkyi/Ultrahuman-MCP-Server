@@ -1,6 +1,11 @@
 # Ultrahuman MCP Server
 
-A Model Context Protocol (MCP) server that provides access to Ultrahuman Partnership API data. This server allows AI assistants and applications to interact with Ultrahuman health and fitness data through standardized MCP tools.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![FastMCP](https://img.shields.io/badge/FastMCP-2.12+-green.svg)](https://github.com/jlowin/fastmcp)
+[![Railway](https://img.shields.io/badge/Deploy-Railway-purple.svg)](https://railway.app)
+
+A Model Context Protocol (MCP) server that provides access to Ultrahuman API data. This server allows AI assistants and applications to interact with Ultrahuman health and fitness data through standardized MCP tools.
 
 ## Features
 
@@ -248,8 +253,16 @@ For issues related to:
 - **Ultrahuman API**: Contact Ultrahuman support
 - **FastMCP**: Check the [FastMCP documentation](https://github.com/jlowin/fastmcp)
 
+## Repository Setup
+
+For maximum visibility and SEO optimization, see [GITHUB_SETUP.md](./GITHUB_SETUP.md) for detailed instructions on:
+- Configuring GitHub About section with proper tags
+- SEO optimization for search engines
+- Adding to MCP showcases and awesome lists
+
 ## Links
 
-- [Ultrahuman Partnership API Documentation](https://blog.ultrahuman.com/blog/accessing-the-ultrahuman-partnership-api/)
+- [Ultrahuman API Documentation](https://blog.ultrahuman.com/blog/accessing-the-ultrahuman-partnership-api/)
 - [FastMCP Framework](https://github.com/jlowin/fastmcp)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
+- [Awesome MCP](https://github.com/modelcontextprotocol/awesome-mcp) - Add your project here!
